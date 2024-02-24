@@ -17,7 +17,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="services__item">
                             <div class="services__item__icon">
-                                <img src="img/icons/si-1.png" alt="">
+                                <img src="{{ asset('frontend/assets/img/icons/si-1.png') }}" alt="">
                             </div>
                             <h4>Motion graphics</h4>
                             <p>Whether you’re halfway through the editing process, or you haven’t even started, our
@@ -27,7 +27,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="services__item">
                             <div class="services__item__icon">
-                                <img src="img/icons/si-2.png" alt="">
+                                <img src="{{ asset('frontend/assets/img/icons/si-2.png') }}" alt="">
                             </div>
                             <h4>Scriptwriting and editing</h4>
                             <p>Whether you’re halfway through the editing process, or you haven’t even started, our
@@ -37,7 +37,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="services__item">
                             <div class="services__item__icon">
-                                <img src="img/icons/si-3.png" alt="">
+                                <img src="{{ asset('frontend/assets/img/icons/si-3.png') }}" alt="">
                             </div>
                             <h4>Video distribution</h4>
                             <p>Whether you’re halfway through the editing process, or you haven’t even started, our
@@ -47,7 +47,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="services__item">
                             <div class="services__item__icon">
-                                <img src="img/icons/si-4.png" alt="">
+                                <img src="{{ asset('frontend/assets/img/icons/si-4.png') }}" alt="">
                             </div>
                             <h4>Video hosting</h4>
                             <p>Whether you’re halfway through the editing process, or you haven’t even started, our

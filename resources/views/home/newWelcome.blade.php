@@ -39,7 +39,7 @@
     <!-- Hero Section End -->
 
     <!-- Services Section Begin -->
-    @include('home.body.sericeSpad')
+    @include('home.body.serviceSpad')
     <!-- Services Section End -->
 
     <!-- Work Section Begin -->

@@ -5,7 +5,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="counter__item">
                         <div class="counter__item__text">
-                            <img src="img/icons/ci-1.png" alt="">
+                            <img src="{{ asset('frontend/assets/img/icons/ci-1.png') }}" alt="">
                             <h2 class="counter_num">230</h2>
                             <p>Compled Projects</p>
                         </div>
@@ -14,7 +14,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="counter__item second__item">
                         <div class="counter__item__text">
-                            <img src="img/icons/ci-2.png" alt="">
+                            <img src="{{ asset('frontend/assets/img/icons/ci-2.png') }}" alt="">
                             <h2 class="counter_num">1068</h2>
                             <p>Happy clients</p>
                         </div>
@@ -23,7 +23,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="counter__item third__item">
                         <div class="counter__item__text">
-                            <img src="img/icons/ci-3.png" alt="">
+                            <img src="{{ asset('frontend/assets/img/icons/ci-3.png') }}" alt="">
                             <h2 class="counter_num">230</h2>
                             <p>Perspective clients</p>
                         </div>
@@ -32,7 +32,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="counter__item four__item">
                         <div class="counter__item__text">
-                            <img src="img/icons/ci-4.png" alt="">
+                            <img src="{{ asset('frontend/assets/img/icons/ci-4.png') }}" alt="">
                             <h2 class="counter_num">230</h2>
                             <p>Compled Projects</p>
                         </div>

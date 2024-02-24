@@ -1,6 +1,6 @@
 <section class="hero">
     <div class="hero__slider owl-carousel">
-        <div class="hero__item set-bg" data-setbg="img/hero/hero-1.jpg">
+        <div class="hero__item set-bg" data-setbg="{{ asset('frontend/assets/img/hero/hero-1.jpg') }}">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
@@ -13,7 +13,7 @@
                 </div>
             </div>
         </div>
-        <div class="hero__item set-bg" data-setbg="img/hero/hero-1.jpg">
+        <div class="hero__item set-bg" data-setbg="{{ asset('frontend/assets/img/hero/hero-1.jpg') }}">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
@@ -26,7 +26,7 @@
                 </div>
             </div>
         </div>
-        <div class="hero__item set-bg" data-setbg="img/hero/hero-1.jpg">
+        <div class="hero__item set-bg" data-setbg="{{ asset('frontend/assets/img/hero/hero-1.jpg') }}">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">

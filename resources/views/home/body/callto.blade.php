@@ -1,4 +1,4 @@
-<section class="callto spad set-bg" data-setbg="img/callto-bg.jpg">
+<section class="callto spad set-bg" data-setbg="{{ asset('frontend/assets/img/callto-bg.jpg') }}">
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
